@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yoi3/CLionProjects/vezdecode/main.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+limits
+-
+fstream
+-
+
